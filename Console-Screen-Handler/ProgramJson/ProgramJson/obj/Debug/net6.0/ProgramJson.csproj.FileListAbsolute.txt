@@ -1,0 +1,5 @@
+C:\Users\axelg\ProgramJson\ProgramJson\obj\Debug\net6.0\ProgramJson.csproj.AssemblyReference.cache
+C:\Users\axelg\ProgramJson\ProgramJson\obj\Debug\net6.0\ProgramJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axelg\ProgramJson\ProgramJson\obj\Debug\net6.0\ProgramJson.AssemblyInfoInputs.cache
+C:\Users\axelg\ProgramJson\ProgramJson\obj\Debug\net6.0\ProgramJson.AssemblyInfo.cs
+C:\Users\axelg\ProgramJson\ProgramJson\obj\Debug\net6.0\ProgramJson.csproj.CoreCompileInputs.cache

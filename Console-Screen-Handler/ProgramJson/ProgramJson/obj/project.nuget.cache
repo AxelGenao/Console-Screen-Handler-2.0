@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FYAAsp3rN9yMhaqtl5qWdfh0OxhAd3QUYc6MtOpi+pmDFX6Z7j0WJ6vRput9Y1OFlKOvxfb/SXJtlzB4YRZkIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\axelg\\ProgramJson\\ProgramJson\\ProgramJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\axelg\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\axelg\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
